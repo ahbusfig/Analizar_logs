@@ -1,0 +1,4 @@
+timestamp,ip_address,request,status,size
+2025-02-04 10:05:23,192.168.0.1,GET /index.html,200,1234
+2025-02-04 10:06:47,192.168.0.2,POST /login,404,567
+2025-02-04 10:07:11,192.168.0.3,GET /about,200,1122

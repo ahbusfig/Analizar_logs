@@ -1,0 +1,7 @@
+Feb 10 14:23:45 server1 sshd[1234]: Accepted password for user1 from 192.168.1.10 port 34567 ssh2
+Feb 10 14:24:10 server1 sudo: user2 : TTY=pts/1 ; PWD=/home/user2 ; USER=root ; COMMAND=/bin/ls
+Feb 10 14:25:05 server1 kernel: [12345.678901] CPU1: Core temperature above threshold, cpu clock throttled
+Feb 10 14:26:30 server1 systemd[1]: Stopping Apache HTTP Server...
+Feb 10 14:27:15 server1 systemd[1]: Stopped Apache HTTP Server.
+Feb 10 14:28:45 server1 crond[5678]: (user3) CMD (/home/user3/backup.sh)
+Feb 10 14:30:05 server1 sshd[9876]: Failed password for invalid user admin from 192.168.1.20 port 45678 ssh2

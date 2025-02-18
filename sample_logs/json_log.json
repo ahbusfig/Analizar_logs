@@ -1,0 +1,35 @@
+[
+    {
+      "timestamp": "2025-02-10T14:23:45-05:00",
+      "ip": "192.168.0.1",
+      "method": "GET",
+      "url": "/index.html",
+      "status": 200,
+      "size": 1024
+    },
+    {
+      "timestamp": "2025-02-10T14:24:10-05:00",
+      "ip": "192.168.0.2",
+      "method": "POST",
+      "url": "/login",
+      "status": 403,
+      "size": 512
+    },
+    {
+      "timestamp": "2025-02-10T14:25:05-05:00",
+      "ip": "192.168.0.3",
+      "method": "GET",
+      "url": "/about.html",
+      "status": 200,
+      "size": 2048
+    },
+    {
+      "timestamp": "2025-02-10T14:26:30-05:00",
+      "ip": "192.168.0.4",
+      "method": "GET",
+      "url": "/contact.html",
+      "status": 404,
+      "size": 256
+    }
+  ]
+  
